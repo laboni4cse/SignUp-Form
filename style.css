@@ -1,0 +1,106 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+background: linear-gradient(45deg,  #00ccff, #ff9966);
+height: 100vh;
+	
+}
+.a{ text-decoration: none;
+ }
+.menubar{
+	width: 100%;
+
+}
+.menubar ul{
+	width: 50%;
+	margin: 40px auto;
+	padding: 20px 0px;
+}
+.menubar ul li{
+	list-style: none;
+	display: inline-block;
+
+}
+.menubar ul li{
+	
+	margin: 0px 1rem;
+	padding: 1rem;
+} 
+.menubar ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 50px;
+	margin-top: 50px
+}
+.menubar ul li a:hover{
+	color: red;
+
+
+
+}
+
+.sign-in{
+	height: 300px;
+	width: 400px;
+	margin: 0px 70px;
+	margin-left:18%;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+	background-color:#2aa5a5;
+    float: left;
+
+
+}
+.sign-in input{
+	margin: 10px 20px;
+	padding: 10px 30px;
+	border-radius: 17px;
+
+}
+.sign-up input{
+	margin: 10px 20px;
+	padding: 10px 30px;
+    border-radius: 17px;
+
+}
+
+.submit-btn{
+	margin: 10px 20px;
+	padding: 10px 30px;
+	background-color:  #147314c2;	
+}
+.reset-btn{
+	margin: 10px 20px;
+	padding: 10px 30px;
+	background-color: #ff2f00d1;
+
+
+
+}
+
+h3{
+	 background-color:rgba(255,255,255,0.6);
+padding: 15px 0px;
+border-radius: 5px;
+	margin: 0;
+	margin-bottom: 16px;
+}
+.sign-up{
+	height: 400px;
+	width: 400px;
+	margin-right: 16%;
+	text-align: center;
+	font-size: 25px;
+	 border-radius: 5px;
+   	background-color: #2aa5a5;
+   float: right;
+   }
+.register-btn{
+text-align: center;
+	background-color: #147314c2;	
+}
+}
